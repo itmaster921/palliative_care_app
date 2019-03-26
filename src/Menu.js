@@ -132,7 +132,7 @@ export default class Menu extends Component {
 					</TouchableOpacity>
 					{/* <TouchableOpacity style={styles.menuItem}>
 						<ArrowText light bold color={Colors.white} style={styles.menuItemText}>
-							Take our survey
+							Support /FAQ
 						</ArrowText>
 					</TouchableOpacity> */}
 				</View>
