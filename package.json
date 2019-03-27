@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npm run get_bundle && node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
-    "get_bundle": "sh ./scripts/create_local_store.sh"
+    // "get_bundle": "sh ./scripts/create_local_store.sh"
   },
   "dependencies": {
     "moment": "^2.22.1",

@@ -3,7 +3,7 @@
  */
 
 import { AsyncStorage, NetInfo } from "react-native";
-
+import { Platform, AsyncStorage, NetInfo } from "react-native";
 // Backup file generated during build
 import ApiBackup from "./ApiBackup";
 
