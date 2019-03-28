@@ -16,6 +16,7 @@ import HTML from 'react-native-render-html';
 import { API_HTML_ROOT } from '@api';
 import store from '../../Store';
 import { gotoHome } from 'router';
+import HTMLView from 'react-native-htmlview';
 import { fixSpaceInHTML } from '@utils';
 
 let { width } = Dimensions.get('window');
